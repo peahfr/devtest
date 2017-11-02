@@ -1,8 +1,12 @@
 body {
+<<<<<<< HEAD
     color: aqua;
     background-color: black;
 }
 
 p {
     text-shadow: 2px 2px 2px yellow;
+=======
+    color: aqua
+>>>>>>> parent of 28847ed... Changement background color
 }
